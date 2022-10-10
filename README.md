@@ -4,7 +4,7 @@
 
  🔭 I’m currently working on [Flight Planner](https://github.com/Gatiskk/Flight-Planner)
      
- 🌱 I’m currently learning **.NET, WEB API, TDD, Entity Framework, SQL**
+ 🌱 I’m currently learning **.NET, WEB API, TDD, Entity Framework**
      
  👨‍💻 All of my projects are available at [https://github.com/Gatiskk](https://github.com/Gatiskk)
  
