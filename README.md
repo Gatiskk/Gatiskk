@@ -1,15 +1,15 @@
 <h1 align="center">Hi 👋, I'm Gatis</h1>
 <h3 align="center">A passionate software developer from Latvia</h3>
 <img align="right" alt="Coding" width="300" src="https://i.pinimg.com/originals/eb/24/ac/eb24ac9ceb8b614128ed5945a385206a.gif"
-- 🔭 I’m currently working on [Flight Planner](https://github.com/Gatiskk/Flight-Planner)
+ 🔭 I’m currently working on [Flight Planner](https://github.com/Gatiskk/Flight-Planner)
      
-- 🌱 I’m currently learning **.NET, WEB API, TDD, Entity Framework**
+ 🌱 I’m currently learning **.NET, WEB API, TDD, Entity Framework**
      
-- 👨‍💻 All of my projects are available at [https://github.com/Gatiskk](https://github.com/Gatiskk)
+ 👨‍💻 All of my projects are available at [https://github.com/Gatiskk](https://github.com/Gatiskk)
      
-- 📫 How to reach me **gatiskodors@gmail.com**
+ 📫 How to reach me **gatiskodors@gmail.com**
      
-- ⚡ Fun fact **I like video games**
+ ⚡ Fun fact **I like video games**
      
 <h3 align="left">Connect with me:</h3>
 <p align="left">
