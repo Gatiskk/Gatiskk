@@ -7,6 +7,8 @@
  🌱 I’m currently learning **.NET, WEB API, TDD, Entity Framework**
      
  👨‍💻 All of my projects are available at [https://github.com/Gatiskk](https://github.com/Gatiskk)
+ 
+ 💬 Ask me about **C#, SQL, Computer Hardware, Technology**
      
  📫 How to reach me **gatiskodors@gmail.com**
      
