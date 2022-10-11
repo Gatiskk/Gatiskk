@@ -2,17 +2,17 @@
 <h3 align="center">A passionate software developer from Latvia</h3>
 <img align="right" alt="Coding" width="250" src="https://media.tenor.com/y2JXkY1pXkwAAAAM/cat-computer.gif"
 
-- 🔭 I’m currently working on [Flight Planner](https://github.com/Gatiskk/Flight-Planner)
+ 🔭 I’m currently working on [Flight Planner](https://github.com/Gatiskk/Flight-Planner)
 
-- 🌱 I’m currently learning **.NET, WEB API, TDD, Entity Framework**
+ 🌱 I’m currently learning **.NET, WEB API, TDD, Entity Framework**
 
-- 👨‍💻 All of my projects are available at [https://github.com/Gatiskk](https://github.com/Gatiskk)
+ 👨‍💻 All of my projects are available at [https://github.com/Gatiskk](https://github.com/Gatiskk)
 
-- 💬 Ask me about **C#, SQL, Computer Hardware, Technology**
+ 💬 Ask me about **C#, SQL, Computer Hardware, Technology**
 
-- 📫 How to reach me **gatiskodors@gmail.com**
+ 📫 How to reach me **gatiskodors@gmail.com**
 
-- ⚡ Fun fact **I like video games**
+ ⚡ Fun fact **I like video games**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
