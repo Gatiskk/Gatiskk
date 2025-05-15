@@ -1,6 +1,5 @@
 <h1 align="center">Hi 👋, I'm Gatis</h1>
 <h3 align="center">A passionate software developer from Latvia</h3>
-<img align="right" alt="Coding" width="250" src="https://media.tenor.com/y2JXkY1pXkwAAAAM/cat-computer.gif"
 
  🔭 I’m currently working on [E-Commerce movie shop](https://github.com/Gatiskk/E-Commerce-shop-App)
 
